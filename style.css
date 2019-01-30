@@ -42,8 +42,9 @@ a:hover{
 
 .container{
   width: 500px;
-  margin: opx auto;
+  margin: 30px auto;
 }
+
 .card{
   background: white;
   padding: 20px;
